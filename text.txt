@@ -1,0 +1,26 @@
+{
+      "am_id": "7",
+      "am_atype_id": "111111",
+      "am_make_id": "The List 1",
+      "am_ad_id": "Axel Rauschmayer",
+      "am_model": "2014-02-01",
+      "am_snumber": "O'Reilly Media",
+      "am_pdate": "2021-02-02",
+      "am_warranty": "2",
+      "am_from": "4.3",
+      "am_to": "4.3",
+      "am_myyear": "4.3"
+    }
+
+    {
+      "id": 1,
+      "user_name": "User123",
+      "password": "pass123",
+      "first_name": "7",
+      "last_name": "111111",
+      "age": "The List 1",
+      "gender": "Axel Rauschmayer",
+      "address": "2014-02-01",
+      "phone_number": "7887767866",
+      "l_id": "2021-02-02"
+    }

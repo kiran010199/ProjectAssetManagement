@@ -1,0 +1,24 @@
+{
+  "book": [
+    {
+      "id": 3,
+      "isbn": "9781449365035",
+      "title": "The List 1",
+      "author": "Axel Rauschmayer",
+      "publish_date": "2014-02-01",
+      "publisher": "O'Reilly Media",
+      "rating": 4.3,
+      "url": "https://www.skipprichard.com/wp-content/uploads/2017/12/9781492647966.jpg"
+    },
+    {
+      "title": "An Unkindness of Magicians",
+      "isbn": "7878787876",
+      "author": "XXXXX",
+      "publisher": "No Starch Press",
+      "rating": "3.5",
+      "url": "https://www.skipprichard.com/wp-content/uploads/2017/12/9781481451192.jpg",
+      "publish_date": "2020-04-02",
+      "id": 4
+    }
+  ]
+}

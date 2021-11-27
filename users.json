@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "email": "User123@user.com",
+      "password": "$2a$10$EOqi3P02CsSD4Mv39UI.TuHYqsc8CmaSBWxmrOplZZJfoCSegu.DS",
+      "first_name": "7",
+      "last_name": "111111",
+      "age": "The List 1",
+      "gender": "Axel Rauschmayer",
+      "address": "2014-02-01",
+      "phone_number": "7887767866",
+      "l_id": "2021-02-02",
+      "id": 1
+    },
+    {
+      "email": "User321@user.com",
+      "password": "$2a$10$S3Fsv8aELDJPUh8xvR9I7.38T9V4yweht/pTStUlTaFv7f22hKKB2",
+      "user_name": "User321",
+      "first_name": "Test",
+      "last_name": "User",
+      "phone_number": "6666666666",
+      "age": "88",
+      "gender": "Female",
+      "address": "45",
+      "l_id": "65",
+      "id": 2
+    }
+  ]
+}

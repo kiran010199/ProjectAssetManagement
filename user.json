@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "user_name": "User123",
+      "password": "pass123",
+      "first_name": "7",
+      "last_name": "111111",
+      "age": "The List 1",
+      "gender": "Axel Rauschmayer",
+      "address": "2014-02-01",
+      "phone_number": "7887767866",
+      "l_id": "2021-02-02"
+    },
+    {
+      "user_name": "User321",
+      "password": "password",
+      "first_name": "Kiran",
+      "last_name": "Giby",
+      "phone_number": "7498478392",
+      "age": "98",
+      "gender": "Female",
+      "address": "55665",
+      "l_id": "656775",
+      "id": 2
+    }
+  ]
+}
